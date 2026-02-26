@@ -1,0 +1,1 @@
+# hayato-guest-account-gen
